@@ -1,5 +1,10 @@
 # Hi, I'm Steawin! 👋🏾🧑🏿‍💻
 
+<div align = "center">
+
+<img width="800" height="600" alt="Screenshot 2026-01-16 2 16 32 PM" src="https://github.com/user-attachments/assets/bb6b6dae-2ffd-4c74-803b-24b4343c273a" />
+
+</div>
 
 I'm a self-taught programmer who's passionate about making software skills and technology as a whole more accessible to everyday people, through my projects, mainly in Python. As an aspiring data scientist, I enjoy creating repos to document Python libraries, specifically for CSV dataframes. I've also served as a data analyst for BASIS Shavano's University Interscholastic League chapter and a teaching assistant for an AP Computer Science course, which has prepared me to take on data-centered roles in the workplace.
 
