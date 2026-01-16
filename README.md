@@ -1,7 +1,6 @@
-<div align = "right">
+<div align = "left">
   
 <img width="200" height="350" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/d00ae7b0-dc74-499e-a167-73f23c1b805c" />
-
 
 </div>
 
