@@ -1,6 +1,6 @@
-<div align = "left">
+<div align = "center">
   
-<img width="760" height="300" alt="Screenshot 2026-01-16 10 10 16 AM" src="https://github.com/user-attachments/assets/31ee26ef-7c9a-4d30-ada2-0c25c2774694" />
+<img width="780" height="300" alt="Screenshot 2026-01-16 10 10 16 AM" src="https://github.com/user-attachments/assets/31ee26ef-7c9a-4d30-ada2-0c25c2774694" />
 
 </div>
 
