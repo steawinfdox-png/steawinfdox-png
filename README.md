@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align = "center">
+  
+<img width="487" height="512" alt="photo-removebg-preview" src="https://github.com/user-attachments/assets/d56bcda3-1155-4c06-8cad-c5338732fdba" />
+
+</div>
 
 <!--
 **steawinfdox-png/steawinfdox-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
