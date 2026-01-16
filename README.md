@@ -1,4 +1,4 @@
-# Hi, I'm Steawin! 👋🏾🧑🏿‍💻
+# Hey y'all, I'm Steawin! 👋🏾🧑🏿‍💻
 
 <div align = "center">
 
