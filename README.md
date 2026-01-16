@@ -1,6 +1,7 @@
 <div align = "right">
   
-<img width="200" height="300" alt="photo-removebg-preview" src="https://github.com/user-attachments/assets/d56bcda3-1155-4c06-8cad-c5338732fdba" />
+<img width="200" height="350" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/d00ae7b0-dc74-499e-a167-73f23c1b805c" />
+
 
 </div>
 
