@@ -1,14 +1,9 @@
 <div align = "left">
   
-<img width="200" height="350" alt="download-removebg-preview" src="https://github.com/user-attachments/assets/d00ae7b0-dc74-499e-a167-73f23c1b805c" />
+<img width="789" height="294" alt="Screenshot 2026-01-16 10 10 16 AM" src="https://github.com/user-attachments/assets/31ee26ef-7c9a-4d30-ada2-0c25c2774694" />
 
 </div>
 
-<div align = "right">
-
-# Steawin Fernando
-
-</div>
 
 <!--
 **steawinfdox-png/steawinfdox-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
