@@ -7,6 +7,7 @@
 </div>
 
 
+
 I'm a self-taught programmer who's passionate about making software skills and technology as a whole more accessible to everyday people, through my projects, mainly in Python. As an aspiring data scientist, I enjoy creating repos to document Python libraries, specifically for CSV dataframes. I've also served as a data analyst for BASIS Shavano's University Interscholastic League chapter and a teaching assistant for an AP Computer Science course, which has prepared me to take on data-centered roles in the workplace.
 
 ## Find me online 🌐
