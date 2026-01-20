@@ -1,12 +1,12 @@
 # 👋🏾 Hey y'all, I'm Steawin!
 
-I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
-
 <div align = "center">
 
 <img width="870" height="300" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
 
 </div>
+
+I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
 When I'm not geeking out over coding, you'll find me:
 - ✍️ Writing my first sci-fi novel
