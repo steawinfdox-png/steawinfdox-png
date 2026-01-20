@@ -14,11 +14,7 @@ Here are some highlights:
 * [Cluster Beats](https://github.com/steawinfdox-png/Cluster-Beats): A customizable, NLP-powered pipeline to help everyday music lovers discover their favorite artists' discographic evolution using the Genius API and K-Means clustering.
 * [ISRO Launch Interface](https://github.com/steawinfdox-png/ISRO-Launch-Analysis): Easy-to-navigate interface for analyzing ISRO's annual launch trends on four different criteria, from 1979-2023
 
-🌐 Statistics
-<p align="center">
-  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/api?username=zuhaitz-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
+📊 Statistics
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=steawinfdox-png&bg_color=00555a&color=f2b949&line=f2b949&point=f2b949&area=true&hide_border=true"
