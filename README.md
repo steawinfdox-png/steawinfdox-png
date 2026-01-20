@@ -2,17 +2,17 @@
 
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
-When I'm not geeking out over coding, you'll find me:
-- ✍️ Writing my first sci-fi novel
-- 🍽️ Cooking Indian food with my mom
-- 📺 Watching K-Dramas with coffee
-- 🧑🏿‍🏫 Tutoring kids for their SATs/APs
-
 <div align = "center">
 
 <img width="870" height="300" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
 
 </div>
+
+When I'm not geeking out over coding, you'll find me:
+- ✍️ Writing my first sci-fi novel
+- 🍽️ Cooking Indian food with my mom
+- 📺 Watching K-Dramas with coffee
+- 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
 ## 🌐 Featured Projects
 
@@ -32,7 +32,7 @@ Here are some highlights:
 </p>
 
 ## Find me online 🌐
-* [IBM certified for data science and AI programming](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url)
+* [IBM certified](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url) for data science and AI programming
 * [Published author for CyclesForChange](https://cyclesforchange.wixsite.com/cycles-for-change/post/how-social-media-is-changing-period-stigma-in-foreign-nations), addressing international period stigma
 * [4th in Texas](https://www.tmsca.org/images/23-24_Meets/3A%20RESULTS.pdf) in Science TMSCA
 * Tutoring students for the SAT through the [San Antonio Math Include](https://mathinclude.org/)
