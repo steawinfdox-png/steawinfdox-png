@@ -12,7 +12,7 @@ I'm a self-taught programmer who's passionate about making software skills and t
 
 💻 I'm currently making a custom NetworkX classification system to map the geopolitical history of the Catholic Church (stay tuned for updates!)
 
-🌱 
+🌱 Right now, I'm 
 
 ## Find me online 🌐
 * [IBM certified](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url) for data science and AI programming 
