@@ -9,12 +9,14 @@
 
 💡 I'm a self-taught programmer and aspiring data scientist who's passionate about making efficient technology accessible to everyday people through my personal Python projects <br> 💻 I'm currently making a custom NetworkX classification system to map the geopolitical history of the Catholic Church (stay tuned for updates!) <br> 🌎 I make public repos to document/explain specific packages and API wrappers for others to have for easy reference and understanding <br> ✍️ In my free time, I scrapbook, cook south Indian food, and listen to music. <br> 💬 Feel free to reach out to me for project collaborations or discussing the above topics! <br> ✉️  You can email me at [steawinfdox@gmail.com](steawinfdox@gmail.com) I'll try to respond as soon as possible! <br> 📄  You can check my [LinkedIn](https://www.linkedin.com/in/steawin-fernando-959a07306/) for more details about my programming experience.
 
-🌐 Featured Projects
+## 🌐 Featured Projects
+
 Here are some highlights:
+
 * [Cluster Beats](https://github.com/steawinfdox-png/Cluster-Beats): A customizable, NLP-powered pipeline to help everyday music lovers discover their favorite artists' discographic evolution using the Genius API and K-Means clustering.
 * [ISRO Launch Interface](https://github.com/steawinfdox-png/ISRO-Launch-Analysis): Easy-to-navigate interface for analyzing ISRO's annual launch trends on four different criteria, from 1979-2023
 
-📊 Statistics
+## 📊 Statistics
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img
