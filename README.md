@@ -1,4 +1,4 @@
-# Hey y'all, I'm Steawin! 👋🏾🧑🏿‍💻
+# 👋🏾 Hey y'all, I'm Steawin!
 
 <div align = "center">
 
@@ -6,8 +6,12 @@
 
 </div>
 
+I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
-💡 I'm a self-taught programmer and aspiring data scientist who's passionate about making efficient technology accessible to everyday people through my personal Python projects <br> 💻 I'm currently making a custom NetworkX classification system to map the geopolitical history of the Catholic Church (stay tuned for updates!) <br> 🌎 I make public repos to document/explain specific packages and API wrappers for others to have for easy reference and understanding <br> ✍️ In my free time, I scrapbook, cook south Indian food, and listen to music. <br> 💬 Feel free to reach out to me for project collaborations or discussing the above topics! <br> ✉️  You can email me at [steawinfdox@gmail.com](steawinfdox@gmail.com) I'll try to respond as soon as possible! <br> 📄  You can check my [LinkedIn](https://www.linkedin.com/in/steawin-fernando-959a07306/) for more details about my programming experience.
+When I'm not coding in Python, you'll find me:
+- 📚 Scrapbooking about my latest fixation
+- ✍️ Writing my first sci-fi novel
+
 
 ## 🌐 Featured Projects
 
