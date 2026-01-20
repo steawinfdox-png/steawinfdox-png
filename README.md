@@ -1,13 +1,5 @@
 # 👋🏾 Hey y'all, I'm Steawin!
 
-<div align = "center">
-
-<img width="870" height="300" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
-
-</div>
-<br>
-
-
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
 When I'm not geeking out over coding, you'll find me:
@@ -15,6 +7,12 @@ When I'm not geeking out over coding, you'll find me:
 - 🍽️ Cooking Indian food with my mom
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
+
+<div align = "center">
+
+<img width="870" height="300" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
+
+</div>
 
 ## 🌐 Featured Projects
 
@@ -38,3 +36,4 @@ Here are some highlights:
 * Published author for CyclesForChange, [addressing international period stigma](https://cyclesforchange.wixsite.com/cycles-for-change/post/how-social-media-is-changing-period-stigma-in-foreign-nations)
 * [4th in Texas](https://www.tmsca.org/images/23-24_Meets/3A%20RESULTS.pdf) in Science TMSCA
 * Tutoring students for the SAT through the [San Antonio Math Include](https://mathinclude.org/tutors-page-2)
+* Wri
