@@ -16,7 +16,7 @@ Here are some highlights:
 
 🌐 Statistics
 <p align="center">
-  <img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=steawinfdox-png&bg_color=00555a&color=f2b949&line=f8b949&point=f2b949&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)&theme=react-dark&hide_border=true&area=true" alt="Your Coding Activity">
+  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/api?username=zuhaitz-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ## Find me online 🌐
