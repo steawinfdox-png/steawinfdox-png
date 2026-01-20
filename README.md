@@ -32,8 +32,7 @@ Here are some highlights:
 </p>
 
 ## Find me online 🌐
-* [IBM certified](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url) for data science and AI programming 
-* Published author for CyclesForChange, [addressing international period stigma](https://cyclesforchange.wixsite.com/cycles-for-change/post/how-social-media-is-changing-period-stigma-in-foreign-nations)
+* [IBM certified for data science and AI programming](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url)
+* [Published author for CyclesForChange, addressing international period stigma](https://cyclesforchange.wixsite.com/cycles-for-change/post/how-social-media-is-changing-period-stigma-in-foreign-nations)
 * [4th in Texas](https://www.tmsca.org/images/23-24_Meets/3A%20RESULTS.pdf) in Science TMSCA
-* Tutoring students for the SAT through the [San Antonio Math Include](https://mathinclude.org/tutors-page-2)
-* Wri
+* Tutoring students for the SAT through the [San Antonio Math Include]([https://mathinclude.org/tutors-page-2](https://mathinclude.org/))
