@@ -7,8 +7,6 @@ When I'm not geeking out over coding, you'll find me:
 - 🍽️ Cooking Indian food with my mom
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
-
-<br>
 <div align = "center">
 
 <img width="1070" height="399" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
