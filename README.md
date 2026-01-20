@@ -19,6 +19,13 @@ Here are some highlights:
   <img src="https://ashutosh00710.github.io/github-readme-activity-graph/api?username=zuhaitz-dev&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=steawinfdox-png&bg_color=00555a&color=f2b949&line=f2b949&point=f2b949&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 ## Find me online 🌐
 * [IBM certified](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url) for data science and AI programming 
 * Published author for CyclesForChange, [addressing international period stigma](https://cyclesforchange.wixsite.com/cycles-for-change/post/how-social-media-is-changing-period-stigma-in-foreign-nations)
