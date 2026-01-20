@@ -16,10 +16,12 @@ Here are some highlights:
 
 📊 Statistics
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=steawinfdox-png&bg_color=00555a&color=f2b949&line=f2b949&point=f2b949&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=steawinfdox-png&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
+      alt="GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ## Find me online 🌐
