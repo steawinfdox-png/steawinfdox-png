@@ -2,9 +2,11 @@
 
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
-When I'm not coding in Python, you'll find me:
-- 📚 Scrapbooking about my latest fixation
+When I'm not geeking out over coding, you'll find me:
 - ✍️ Writing my first sci-fi novel
+- 🍽️ Cooking Indian food with my mom
+- 📺 Watching K-Dramas with coffee
+- 🧑🏿‍🏫 Tutoring kids for their SATs/APs
   
 <div align = "center">
 
