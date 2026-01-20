@@ -2,7 +2,7 @@
 
 <div align = "center">
 
-<img width="870" height="199" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
+<img width="870" height="300" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
 
 </div>
 <br>
