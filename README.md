@@ -22,6 +22,9 @@ When I'm not geeking out over coding, you'll find me:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=https://raw.githubusercontent.com/matplotlib/matplotlib/main/logo2.png&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=https://raw.githubusercontent.com/mwaskom/seaborn-data/main/logo/seaborn-logo.png&logoColor=white)
+
 
 ### LLMs/NLP
 ![GPT-5](https://img.shields.io/badge/OpenAI_GPT‑5-412991?style=for-the-badge&logo=openai&logoColor=white)
