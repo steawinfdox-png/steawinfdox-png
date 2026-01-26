@@ -8,34 +8,6 @@
 
 <br>
 
-<div align = "center">
-  
-Analytics<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-### NLP/ML
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
-![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![MPNet](https://img.shields.io/badge/MPNet--Embeddings-8A2BE2?style=for-the-badge)
-
-### LLMs
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF4F00?style=for-the-badge)
-![LLaMA](https://img.shields.io/badge/LLaMA--3.3-0467DF?style=for-the-badge)
-
-### APIs
-![Genius API](https://img.shields.io/badge/Genius_API-FFFF64?style=for-the-badge&logo=genius&logoColor=black)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
-![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
-
 
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
@@ -44,6 +16,14 @@ When I'm not geeking out over coding, you'll find me:
 - 🍽️ Cooking Indian food with my mom
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
+
+**Analytics:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+**NLP/ML:** ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge) ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![MPNet](https://img.shields.io/badge/MPNet--Embeddings-8A2BE2?style=for-the-badge)
+
+**LLMs:** ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-FF4F00?style=for-the-badge) ![LLaMA](https://img.shields.io/badge/LLaMA--3.3-0467DF?style=for-the-badge)
+
+**APIs:** ![Genius API](https://img.shields.io/badge/Genius_API-FFFF64?style=for-the-badge&logo=genius&logoColor=black) ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge) ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
 
 ## 🌐 Featured Projects
 
