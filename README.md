@@ -37,8 +37,8 @@ When I'm not geeking out over coding, you'll find me:
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
 
 ### Analytics
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Cognos Analytics](https://img.shields.io/badge/Cognos_Analytics-052F5F?style=for-the-badge&logo=ibm&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=https://seeklogo.com/images/M/microsoft-excel-logo-5F0DDAC21D-seeklogo.com.png&logoColor=white)
+![Cognos Analytics](https://img.shields.io/badge/Cognos_Analytics-052F5F?style=for-the-badge&logo=https://freebiesupply.com/logos/cognos-logo/cognos-logo.svg&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🌐 Featured Projects
