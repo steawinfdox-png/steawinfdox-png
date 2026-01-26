@@ -17,7 +17,7 @@ When I'm not geeking out over coding, you'll find me:
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
-### Analytics
+### Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -36,6 +36,9 @@ When I'm not geeking out over coding, you'll find me:
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
 
+### Analytics
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Cognos Analytics](https://img.shields.io/badge/Cognos_Analytics-052F5F?style=for-the-badge&logoColor=white)
 
 ## 🌐 Featured Projects
 
