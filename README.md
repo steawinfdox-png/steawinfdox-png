@@ -7,7 +7,9 @@
 </div>
 
 <br>
+
 ![Python](https://img.shields.io)
+
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
 
 When I'm not geeking out over coding, you'll find me:
