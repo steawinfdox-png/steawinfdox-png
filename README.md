@@ -9,8 +9,20 @@
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Genius API](https://img.shields.io/badge/Genius_API-FFFF64?style=for-the-badge&logo=genius&logoColor=black)
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4F00?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/LLaMA--3.3-0467DF?style=for-the-badge)
+
 
 
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
