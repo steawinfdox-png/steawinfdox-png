@@ -23,17 +23,12 @@ When I'm not geeking out over coding, you'll find me:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### NLP/ML
+### LLMs/NLP
+![GPT-5](https://img.shields.io/badge/OpenAI_GPT‑5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA--3.3-0467DF?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### APIs
-![Groq](https://img.shields.io/badge/Groq-FF4F00?style=for-the-badge)
-![LLaMA](https://img.shields.io/badge/LLaMA--3.3-0467DF?style=for-the-badge)
-![Genius API](https://img.shields.io/badge/Genius_API-FFFF64?style=for-the-badge&logo=genius&logoColor=black)
-![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
-![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
 
 
 ## 🌐 Featured Projects
