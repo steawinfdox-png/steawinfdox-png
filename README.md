@@ -31,7 +31,7 @@ When I'm not geeking out over coding, you'll find me:
 ![Sentence Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6F00?style=for-the-badge)
 
 ### REST APIs
-![Genius API](https://img.shields.io/badge/Genius_API-FFFF64?style=for-the-badge)
+![Genius API](https://img.shields.io/badge/Genius_API-FFFF64?style=for-the-badge&logo=genius&logoColor=black)
 ![Wikipedia API](https://img.shields.io/badge/Wikipedia_API-000000?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
