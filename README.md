@@ -39,6 +39,7 @@ When I'm not geeking out over coding, you'll find me:
 ### Analytics
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Cognos Analytics](https://img.shields.io/badge/Cognos_Analytics-052F5F?style=for-the-badge&logoColor=white)
+![JupyterLab](https://img.shields.io/badge/JupyterLab-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🌐 Featured Projects
 
