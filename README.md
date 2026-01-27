@@ -17,6 +17,11 @@ When I'm not geeking out over coding, you'll find me:
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
+## Let's get in touch!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steawin-fernando-959a07306/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steawinfdox-png)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steawinfdox@gmail.com)
+
 ## 🌐 Featured Projects
 
 Here are some highlights:
