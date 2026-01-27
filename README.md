@@ -4,9 +4,15 @@
 
 <img width="870" height="300" alt="Screenshot 2026-01-16 4 22 47 PM" src="https://github.com/user-attachments/assets/a736ecdd-15ec-4b52-8ecc-f68f48fb998e"/>
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steawin-fernando-959a07306/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steawinfdox-png)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steawinfdox@gmail.com)
+
 </div>
 
 <br>
+
 
 
 I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
@@ -17,10 +23,6 @@ When I'm not geeking out over coding, you'll find me:
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
-## Let's get in touch!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steawin-fernando-959a07306/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steawinfdox-png)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steawinfdox@gmail.com)
 
 ## 🌐 Featured Projects
 
