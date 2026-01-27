@@ -16,14 +16,6 @@ When I'm not geeking out over coding, you'll find me:
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
-<div align = "center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steawin-fernando-959a07306/) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steawinfdox-png)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steawinfdox@gmail.com)
-
-</div>
-
 ## 🌐 Featured Projects
 
 Here are some highlights:
@@ -72,3 +64,11 @@ Here are some highlights:
 * [Published author for CyclesForChange](https://cyclesforchange.wixsite.com/cycles-for-change/post/how-social-media-is-changing-period-stigma-in-foreign-nations), addressing international period stigma
 * [4th in Texas](https://www.tmsca.org/images/23-24_Meets/3A%20RESULTS.pdf) in Science TMSCA
 * Tutoring students for their SATs/APs through the [San Antonio Math Include](https://mathinclude.org/) and [CrunchMath](https://www.crunchmath.org/)
+
+<div align = "center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steawin-fernando-959a07306/) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/steawinfdox-png)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:steawinfdox@gmail.com)
+
+</div>
