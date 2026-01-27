@@ -41,7 +41,7 @@ Here are some highlights:
 ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
 ![Regex](https://img.shields.io/badge/Regex-000000?style=for-the-badge)
 
-### LLMs
+### LLMs I've worked w/
 ![GPT-5](https://img.shields.io/badge/OpenAI_GPT‑5-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA--3.3-0467DF?style=for-the-badge)
 
