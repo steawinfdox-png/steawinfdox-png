@@ -8,7 +8,7 @@
 
 <br>
 
-I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with modern tech. 💻✨
+I'm a **self-taught programmer** and aspiring data scientist with a passion for building cool stuff, serving my community, and solving complex problems with cutting-edge tech. 💻✨
 
 When I'm not geeking out over coding, you'll find me:
 - ✍️ Writing my first sci-fi novel
