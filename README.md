@@ -17,6 +17,13 @@ When I'm not geeking out over coding, you'll find me:
 - 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
+## 🌐 Featured Projects
+
+Here are some highlights:
+
+* [Cluster Beats](https://github.com/steawinfdox-png/Cluster-Beats): A customizable, NLP-powered pipeline to help everyday music lovers discover their favorite artists' discographic evolution using the Genius API and K-Means clustering.
+* [ISRO Launch Interface](https://github.com/steawinfdox-png/ISRO-Launch-Analysis): Easy-to-navigate interface for analyzing ISRO's annual launch trends on four different criteria, from 1979-2023
+
 ### Libraries and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -42,13 +49,6 @@ When I'm not geeking out over coding, you'll find me:
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=https://seeklogo.com/images/M/microsoft-excel-logo-5F0DDAC21D-seeklogo.com.png&logoColor=white)
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052F5F?style=for-the-badge&logo=https://freebiesupply.com/logos/cognos-logo/cognos-logo.svg&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 🌐 Featured Projects
-
-Here are some highlights:
-
-* [Cluster Beats](https://github.com/steawinfdox-png/Cluster-Beats): A customizable, NLP-powered pipeline to help everyday music lovers discover their favorite artists' discographic evolution using the Genius API and K-Means clustering.
-* [ISRO Launch Interface](https://github.com/steawinfdox-png/ISRO-Launch-Analysis): Easy-to-navigate interface for analyzing ISRO's annual launch trends on four different criteria, from 1979-2023
 
 ## 📊 Statistics
 <p align="center">
