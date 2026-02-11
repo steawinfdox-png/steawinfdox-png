@@ -49,15 +49,6 @@ Here are some highlights:
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052F5F?style=for-the-badge&logo=https://freebiesupply.com/logos/cognos-logo/cognos-logo.svg&logoColor=white)
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-FF6600?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📊 Statistics
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=steawinfdox-png&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true"
-      alt="GitHub Activity Graph"
-    />
-  </a>
-</p>
 
 ## 👨‍💻 Find me online
 * [IBM certified](https://www.credly.com/badges/e45a159a-bd7b-4856-ae58-8fc51b1154ab/public_url) for data science and AI programming
