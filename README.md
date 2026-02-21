@@ -22,6 +22,7 @@ Here are some highlights:
 
 * [Cluster Beats](https://github.com/steawinfdox-png/Cluster-Beats): A customizable, NLP-powered pipeline to help everyday music lovers discover their favorite artists' discographic evolution using the Genius API and K-Means clustering.
 * [ISRO Launch Interface](https://github.com/steawinfdox-png/ISRO-Launch-Analysis): Easy-to-navigate interface for analyzing ISRO's annual launch trends on four different criteria, from 1979-2023
+* [NetworkX for CSV data](https://github.com/steawinfdox-png/nx_forcsv): Library for using the NetworkX package in Python to mine and model CSV dataframes like Microsoft Excel files
 
 ### Libraries and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
