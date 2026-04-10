@@ -13,7 +13,6 @@ I'm a **self-taught programmer** and aspiring data scientist with a passion for 
 When I'm not geeking out over coding, you'll find me:
 - ✍️ Writing my first sci-fi novel
 - 🍽️ Cooking Indian food with my mom
-- 📺 Watching K-Dramas with coffee
 - 🧑🏿‍🏫 Tutoring kids for their SATs/APs
 
 ## 🌐 Featured Projects
